@@ -1,6 +1,7 @@
 {
   "name": "ohanzee-web",
   "version": "0.0.1",
+  "private": true,
   "authors": [
     "Woody Gilk <woody.gilk@kohanaframework.org>"
   ],
